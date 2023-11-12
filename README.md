@@ -36,7 +36,6 @@ Saída:
 O chatbot pode ser encerrado a qualquer momento digitando a opção [0] no menu.
 Modificações Realizadas:
 
-Adicionados comentários explicativos ao código para facilitar a compreensão.
 Incluída validação de entrada básica para garantir uma interação mais robusta.
 Melhorada a usabilidade permitindo que o usuário saia do chatbot a qualquer momento.
 
